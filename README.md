@@ -29,14 +29,18 @@
 
 ##
 
-<h3>Meu PC:</h3>
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrieu5563/gabrieu5563/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrieu5563/gabrieu5563/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrieu5563/gabrieu5563/output/github-contribution-grid-snake.svg">
+</picture>
 
 ##
 
 <h3>Contatos:</h3>
 <div>
-  <a href = "mailto:gabriel.joaquim.5567@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:gabriel.joaquim.5567@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.instagram.com/gabrieu222/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 
 <img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#3399ff&amp;height=100&amp;section=footer" style="max-width: 100%;">
