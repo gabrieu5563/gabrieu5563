@@ -2,9 +2,11 @@
 
 <div>
   <h3>Olá, eu sou</h3>
-  <h1>Gabriel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="auto" height="35" /></h1>
-  
+  <h1>Gabriel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="auto" height="35"/></h1>
+  <h3>Estudante de desenvolvimento de sistemas na ETEC HAS</h3>
+  <br>
 </div>
+
 
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabrieu5563&show_icons=true&theme=dark&title_color=79ff97&rank_icon=percentile&include_all_commits=true">
