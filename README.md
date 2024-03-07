@@ -29,10 +29,6 @@
 
 ##
 
-![snake animation](https://github.com/<gabrieu5563>/<gabrieu5563>/blob/output/github-contribution-grid-snake2.svg)
-
-##
-
 <h3>Contatos:</h3>
 <div>
   <a href = "mailto:gabriel.joaquim.5567@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
