@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 <div>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=gabrieu5563&show_icons=true&theme=dark&title_color=79ff97&rank_icon=percentile&include_all_commits=true">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieu5563&layout=compact&show_icons=true&theme=dark&title_color=79ff97&include_all_commits=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrieu5563&show_icons=true&theme=dark&title_color=79ff97&rank_icon=percentile&include_all_commits=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieu5563&layout=compact&show_icons=true&theme=dark&title_color=79ff97&include_all_commits=true">
 </div> 
 
 <div style="display: inline_block"><br>
