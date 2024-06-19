@@ -12,17 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieu5563&show_icons=true&theme=dark&title_color=79ff97&rank_icon=percentile&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieu5563&layout=compact&show_icons=true&theme=dark&title_color=79ff97&include_all_commits=true">
 </div> 
-
-<br>
-
-##
-
-<h3>Estudando:</h3>
-<div>
-  <img height ="30px" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img height ="30px" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img height ="30px" src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
-</div>
 <br>
 
 ##
