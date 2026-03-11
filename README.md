@@ -3,7 +3,7 @@
 <div>
   <h3>Olá, eu sou</h3>
   <h1>Gabriel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="auto" height="35"/></h1>
-  <h3>Estudante de Engenharia da Computação no Mackenzie</h3>
+  <h3>Estudante de Engenharia Mecatrônica na Poli-USP</h3>
   <br>
 </div>
 
